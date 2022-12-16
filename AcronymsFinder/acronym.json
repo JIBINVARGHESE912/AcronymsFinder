@@ -1,0 +1,502 @@
+[{
+    "sf": "APP",
+    "lfs": [{
+        "lf": "amyloid precursor protein",
+        "freq": 3103,
+        "since": 1988,
+        "vars": [{
+            "lf": "amyloid precursor protein",
+            "freq": 2554,
+            "since": 1989
+        }, {
+            "lf": "amyloid protein precursor",
+            "freq": 132,
+            "since": 1988
+        }, {
+            "lf": "Amyloid precursor protein",
+            "freq": 104,
+            "since": 1988
+        }, {
+            "lf": "amyloid beta-protein precursor",
+            "freq": 56,
+            "since": 1989
+        }, {
+            "lf": "amyloid-beta precursor protein",
+            "freq": 54,
+            "since": 1996
+        }, {
+            "lf": "amyloid precursor proteins",
+            "freq": 33,
+            "since": 1990
+        }, {
+            "lf": "Amyloid Precursor Protein",
+            "freq": 30,
+            "since": 1991
+        }, {
+            "lf": "Abeta precursor protein",
+            "freq": 28,
+            "since": 1997
+        }, {
+            "lf": "amyloid beta precursor protein",
+            "freq": 26,
+            "since": 1988
+        }, {
+            "lf": "amyloid beta protein precursor",
+            "freq": 22,
+            "since": 1990
+        }, {
+            "lf": "amyloid beta/A4 protein precursor",
+            "freq": 11,
+            "since": 1990
+        }, {
+            "lf": "Abeta) precursor protein",
+            "freq": 9,
+            "since": 1999
+        }, {
+            "lf": "amyloid-precursor protein",
+            "freq": 6,
+            "since": 1995
+        }, {
+            "lf": "Amyloid-beta precursor protein",
+            "freq": 5,
+            "since": 2001
+        }, {
+            "lf": "amyloid-beta protein precursor",
+            "freq": 3,
+            "since": 2004
+        }, {
+            "lf": "Amyloid beta protein precursor",
+            "freq": 2,
+            "since": 2001
+        }, {
+            "lf": "amyloid beta-precursor protein",
+            "freq": 2,
+            "since": 2007
+        }, {
+            "lf": "amyloid beta/A4-protein precursor",
+            "freq": 2,
+            "since": 1990
+        }, {
+            "lf": "amyloid-precursor-protein",
+            "freq": 2,
+            "since": 2005
+        }, {
+            "lf": "amyloid protein precursors",
+            "freq": 2,
+            "since": 1990
+        }, {
+            "lf": "Abeta-precursor protein",
+            "freq": 2,
+            "since": 2008
+        }, {
+            "lf": "Amyloid beta-protein precursor",
+            "freq": 2,
+            "since": 1990
+        }, {
+            "lf": "Amyloid Protein Precursor",
+            "freq": 1,
+            "since": 1996
+        }, {
+            "lf": "amyloid beta A4 precursor protein",
+            "freq": 1,
+            "since": 1991
+        }, {
+            "lf": "Amyloid protein precursors",
+            "freq": 1,
+            "since": 1990
+        }, {
+            "lf": "amyloid beta (A4) precursor protein",
+            "freq": 1,
+            "since": 2008
+        }, {
+            "lf": "A beta-precursor protein",
+            "freq": 1,
+            "since": 2003
+        }, {
+            "lf": "A beta) precursor protein",
+            "freq": 1,
+            "since": 2001
+        }, {
+            "lf": "Amyloid beta/A4 precursor protein",
+            "freq": 1,
+            "since": 1992
+        }, {
+            "lf": "amyloid-beta-protein precursor",
+            "freq": 1,
+            "since": 2006
+        }, {
+            "lf": "Amyloid beta/A4 protein precursor",
+            "freq": 1,
+            "since": 1994
+        }, {
+            "lf": "amyloid beta-protein precursors",
+            "freq": 1,
+            "since": 1994
+        }, {
+            "lf": "Amyloid precursor proteins",
+            "freq": 1,
+            "since": 1996
+        }, {
+            "lf": "Amyloid protein precursor",
+            "freq": 1,
+            "since": 1992
+        }, {
+            "lf": "Amyloid beta precursor protein",
+            "freq": 1,
+            "since": 2001
+        }, {
+            "lf": "Abeta)-precursor protein",
+            "freq": 1,
+            "since": 2007
+        }, {
+            "lf": "A beta precursor protein",
+            "freq": 1,
+            "since": 1996
+        }, {
+            "lf": "amyloid beta/A4 precursor protein",
+            "freq": 1,
+            "since": 2002
+        }]
+    }, {
+        "lf": "acute phase proteins",
+        "freq": 172,
+        "since": 1980,
+        "vars": [{
+            "lf": "acute phase proteins",
+            "freq": 74,
+            "since": 1982
+        }, {
+            "lf": "acute-phase proteins",
+            "freq": 33,
+            "since": 1980
+        }, {
+            "lf": "acute phase protein",
+            "freq": 31,
+            "since": 1988
+        }, {
+            "lf": "acute-phase protein",
+            "freq": 18,
+            "since": 1992
+        }, {
+            "lf": "Acute phase proteins",
+            "freq": 8,
+            "since": 1990
+        }, {
+            "lf": "acute phase plasma protein",
+            "freq": 2,
+            "since": 1992
+        }, {
+            "lf": "acute-phase plasma protein",
+            "freq": 2,
+            "since": 1998
+        }, {
+            "lf": "Acute-phase proteins",
+            "freq": 1,
+            "since": 1995
+        }, {
+            "lf": "Acute-phase protein",
+            "freq": 1,
+            "since": 1999
+        }, {
+            "lf": "acute phase plasma proteins",
+            "freq": 1,
+            "since": 1993
+        }, {
+            "lf": "acute-phase plasma proteins",
+            "freq": 1,
+            "since": 1999
+        }]
+    }, {
+        "lf": "avian pancreatic polypeptide",
+        "freq": 77,
+        "since": 1974,
+        "vars": [{
+            "lf": "avian pancreatic polypeptide",
+            "freq": 66,
+            "since": 1974
+        }, {
+            "lf": "Avian pancreatic polypeptide",
+            "freq": 8,
+            "since": 1980
+        }, {
+            "lf": "avian pancreatic peptide",
+            "freq": 3,
+            "since": 1983
+        }]
+    }, {
+        "lf": "aminopeptidase P",
+        "freq": 33,
+        "since": 1988,
+        "vars": [{
+            "lf": "aminopeptidase P",
+            "freq": 20,
+            "since": 1994
+        }, {
+            "lf": "amyloid peptide precursor",
+            "freq": 8,
+            "since": 1988
+        }, {
+            "lf": "Aminopeptidase P",
+            "freq": 3,
+            "since": 2000
+        }, {
+            "lf": "Amyloid Peptide Precursor",
+            "freq": 1,
+            "since": 1989
+        }, {
+            "lf": "Amyloid peptide precursor",
+            "freq": 1,
+            "since": 1989
+        }]
+    }, {
+        "lf": "Actinobacillus pleuropneumoniae",
+        "freq": 23,
+        "since": 1993,
+        "vars": [{
+            "lf": "Actinobacillus pleuropneumoniae",
+            "freq": 23,
+            "since": 1993
+        }]
+    }, {
+        "lf": "acute postoperative pancreatitis",
+        "freq": 9,
+        "since": 1978,
+        "vars": [{
+            "lf": "acute postoperative pancreatitis",
+            "freq": 7,
+            "since": 1990
+        }, {
+            "lf": "Acute postoperative pancreatitis",
+            "freq": 1,
+            "since": 2001
+        }, {
+            "lf": "acute postoperative pancreatiti",
+            "freq": 1,
+            "since": 1978
+        }]
+    }, {
+        "lf": "alternating purine-pyrimidine",
+        "freq": 8,
+        "since": 1986,
+        "vars": [{
+            "lf": "alternating purine-pyrimidine",
+            "freq": 5,
+            "since": 1986
+        }, {
+            "lf": "alternating purine/pyrimidine",
+            "freq": 2,
+            "since": 1992
+        }, {
+            "lf": "Alternating purine-pyrimidine",
+            "freq": 1,
+            "since": 2001
+        }]
+    }, {
+        "lf": "Atrophoderma of Pasini and Pierini",
+        "freq": 7,
+        "since": 1992,
+        "vars": [{
+            "lf": "Atrophoderma of Pasini and Pierini",
+            "freq": 3,
+            "since": 1992
+        }, {
+            "lf": "atrophoderma Pasini-Pierini",
+            "freq": 3,
+            "since": 1995
+        }, {
+            "lf": "atrophoderma of Pasini and Pierini",
+            "freq": 1,
+            "since": 2000
+        }]
+    }, {
+        "lf": "acute purulent pyelonephritis",
+        "freq": 6,
+        "since": 1993,
+        "vars": [{
+            "lf": "acute purulent pyelonephritis",
+            "freq": 6,
+            "since": 1993
+        }]
+    }, {
+        "lf": "Examination of cryostat kidney sections stained for alkaline phosphatase",
+        "freq": 5,
+        "since": 1988,
+        "vars": [{
+            "lf": "Examination of cryostat kidney sections stained for alkaline phosphatase",
+            "freq": 5,
+            "since": 1988
+        }]
+    }, {
+        "lf": "ascopyrone P",
+        "freq": 5,
+        "since": 2002,
+        "vars": [{
+            "lf": "ascopyrone P",
+            "freq": 4,
+            "since": 2002
+        }, {
+            "lf": "Ascopyrone P",
+            "freq": 1,
+            "since": 2004
+        }]
+    }, {
+        "lf": "atactic polypropylene",
+        "freq": 4,
+        "since": 1996,
+        "vars": [{
+            "lf": "atactic polypropylene",
+            "freq": 4,
+            "since": 1996
+        }]
+    }, {
+        "lf": "derived from a larger precursor protein",
+        "freq": 4,
+        "since": 1988,
+        "vars": [{
+            "lf": "derived from a larger precursor protein",
+            "freq": 3,
+            "since": 1993
+        }, {
+            "lf": "derives from a larger precursor protein",
+            "freq": 1,
+            "since": 1988
+        }]
+    }, {
+        "lf": "avian PP",
+        "freq": 4,
+        "since": 1981,
+        "vars": [{
+            "lf": "avian PP",
+            "freq": 3,
+            "since": 1982
+        }, {
+            "lf": "Avian PP",
+            "freq": 1,
+            "since": 1981
+        }]
+    }, {
+        "lf": "anterior pelvic plane",
+        "freq": 4,
+        "since": 2002,
+        "vars": [{
+            "lf": "anterior pelvic plane",
+            "freq": 4,
+            "since": 2002
+        }]
+    }, {
+        "lf": "aryloxyphenoxypropionate",
+        "freq": 4,
+        "since": 2003,
+        "vars": [{
+            "lf": "aryloxyphenoxypropionate",
+            "freq": 4,
+            "since": 2003
+        }]
+    }, {
+        "lf": "autotrophic picoplankton",
+        "freq": 4,
+        "since": 2002,
+        "vars": [{
+            "lf": "autotrophic picoplankton",
+            "freq": 4,
+            "since": 2002
+        }]
+    }, {
+        "lf": "4-aminopyrazolo[3,4-d]pyrimidine",
+        "freq": 3,
+        "since": 1979,
+        "vars": [{
+            "lf": "4-aminopyrazolo[3,4-d]pyrimidine",
+            "freq": 3,
+            "since": 1979
+        }]
+    }, {
+        "lf": "ammonium polyphosphate",
+        "freq": 3,
+        "since": 1981,
+        "vars": [{
+            "lf": "ammonium polyphosphate",
+            "freq": 2,
+            "since": 1983
+        }, {
+            "lf": "Ammonium polyphosphate",
+            "freq": 1,
+            "since": 1981
+        }]
+    }, {
+        "lf": "2-amino-3-phosphonopropionic acid",
+        "freq": 3,
+        "since": 1968,
+        "vars": [{
+            "lf": "2-amino-3-phosphonopropionic acid",
+            "freq": 3,
+            "since": 1968
+        }]
+    }, {
+        "lf": "acute plasmapheresis",
+        "freq": 3,
+        "since": 1990,
+        "vars": [{
+            "lf": "acute plasmapheresis",
+            "freq": 2,
+            "since": 1992
+        }, {
+            "lf": "Acute plasmapheresis",
+            "freq": 1,
+            "since": 1990
+        }]
+    }, {
+        "lf": "antipsychotic polypharmacy",
+        "freq": 3,
+        "since": 2005,
+        "vars": [{
+            "lf": "antipsychotic polypharmacy",
+            "freq": 3,
+            "since": 2005
+        }]
+    }, {
+        "lf": "abdominal perfusion pressure",
+        "freq": 3,
+        "since": 2007,
+        "vars": [{
+            "lf": "abdominal perfusion pressure",
+            "freq": 2,
+            "since": 2007
+        }, {
+            "lf": "Abdominal Perfusion Pressure",
+            "freq": 1,
+            "since": 2008
+        }]
+    }, {
+        "lf": "apparent",
+        "freq": 3,
+        "since": 1984,
+        "vars": [{
+            "lf": "apparent",
+            "freq": 3,
+            "since": 1984
+        }]
+    }, {
+        "lf": "acute pesticide poisoning",
+        "freq": 3,
+        "since": 2000,
+        "vars": [{
+            "lf": "acute pesticide poisoning",
+            "freq": 2,
+            "since": 2000
+        }, {
+            "lf": "Acute pesticide poisoning",
+            "freq": 1,
+            "since": 2006
+        }]
+    }, {
+        "lf": "Family planning in the Ambulatorio da Praia do Pinto",
+        "freq": 2,
+        "since": 1967,
+        "vars": [{
+            "lf": "Family planning in the Ambulatorio da Praia do Pinto",
+            "freq": 2,
+            "since": 1967
+        }]
+    }]
+}]
